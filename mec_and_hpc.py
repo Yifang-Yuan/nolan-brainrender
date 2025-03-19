@@ -1,6 +1,6 @@
 from brainrender import settings
 from brainrender import Scene
-from bg_atlasapi import show_atlases
+
 
 
 def save_csv_with_list_of_abbreviations(scene):
